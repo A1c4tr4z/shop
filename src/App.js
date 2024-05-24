@@ -47,7 +47,14 @@ class App extends React.Component {
           category: 'phones',
           price: '990.99'
         },
-        
+        {
+          id:5,
+          title: 'Iphone 15 Pro Gold',
+          img: '1.jpg',
+          desc: 'Lorem ipsum dolor sit amet, consectur adipisicing.',
+          category: 'phones',
+          price: '990.99'
+        }
 
       ]
     }
